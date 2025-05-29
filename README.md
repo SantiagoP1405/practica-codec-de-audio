@@ -4,7 +4,7 @@ Programa que cumple con los siguiente:
 Para este fin, se tomará como referencia el siguiente código:
 
 ```
-chimp.zipDownload chimp.zip
+chimp.zip
 ```
 La actividad consiste en Realizar un programa en python, para que en su raspberry pueda jugar en una animación de 800x600 pixeles, donde el objeto a animar se desplaza a lo largo y ancho de la pantalla de juego. Deberá cambiar el objeto de animaci´on, es decir, no usar la imagen chimp y sustituirla por otra de 54x79 pixeles. Además debe cambiar los efectos sonoros del juego.
 
